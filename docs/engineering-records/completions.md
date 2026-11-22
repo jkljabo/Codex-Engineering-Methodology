@@ -10,6 +10,16 @@ Engineering Asset Completions are repository-native records and shall not depend
 
 ---
 
+## EA-R003 – Repository Document Update Materialization
+
+### Repository Completion Update
+
+Repository Document Update Materialization has completed all approved engineering lifecycle activities through Repository Closeout Verification.
+
+The engineering asset establishes deterministic Repository Document Updates as the authoritative producer of complete repository-ready Markdown for downstream Repository Artifact Generation while preserving repository-derived structural anchors and deterministic structural addressability.
+
+Engineering Completion Gate: PASS.
+
 # Scope
 
 This document governs repository records for completed engineering assets.
@@ -284,3 +294,13 @@ This document integrates with:
 
 EA-RA001 established the architectural review baseline for the Codex Engineering Methodology repository by completing a comprehensive assessment of repository governance, defining deterministic improvement, evolution, consolidation, and modernization planning, and successfully completing architectural closeout and verification.
 
+## EA-R001 – Repository Baseline Comparison Framework
+
+**Status:** Completed
+
+**Engineering Completion Gate:** PASS
+
+
+## EA-R037 – Repository Mutation Governance
+- Status: Complete
+- ECG: PASS

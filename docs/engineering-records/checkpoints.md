@@ -10,6 +10,22 @@ Engineering Checkpoints are repository-native records and are independent of con
 
 ---
 
+## Checkpoint – EA-R003 Repository Document Update Model
+
+### Repository Completion Checkpoint
+
+Repository Engineering Record Updates completed using repository-derived structural anchors validated from the authoritative repository.
+
+Engineering Completion Gate: PASS.
+
+Verified completion of:
+
+- Repository Document Update Model
+- Repository Document Update Model Verification
+- Repository Engineering Methodology Integration
+
+This checkpoint establishes deterministic separation between engineering authoring and repository execution.
+
 # Scope
 
 This document governs the creation and maintenance of Engineering Checkpoints.
@@ -260,3 +276,11 @@ This document integrates with:
 - Repository Execution Services
 
 <!-- EA-R018 checkpoint update materialized per approved engineering record updates -->
+
+
+- EA-R001 – Repository Baseline Comparison Framework checkpoint completed.
+
+
+## EA-R037 – Repository Mutation Governance
+- Status: Complete
+- ECG: PASS

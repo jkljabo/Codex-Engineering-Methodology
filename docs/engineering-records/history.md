@@ -10,6 +10,20 @@ Repository Engineering History is a persistent engineering record. It summarizes
 
 ---
 
+## EA-R003 – Repository Document Update Materialization
+
+### Repository History Update
+
+EA-R003 completed establishment of the Repository Document Update Materialization capability, formalizing deterministic producer–consumer execution for repository-ready Markdown generation and Repository Engineering Record Artifact Generation.
+
+Engineering Completion Gate: PASS.
+
+- Repository Document Update Model established.
+- Repository Document Update Model verified.
+- Repository Engineering Methodology Integration completed.
+- Deterministic producer–consumer separation established between Repository Document Updates and Repository Artifact Generation.
+- Repository Authority Baseline incorporated into repository execution.
+
 # Scope
 
 This document governs the permanent historical record of repository engineering.
@@ -232,3 +246,16 @@ This document integrates with:
 - Runtime State Management
 - Engineering Continuation
 - Repository Execution Services
+
+## EA-R001 – Repository Baseline Comparison Framework
+
+- Completed Repository Comparison Capability Assessment.
+- Established and verified the Repository Comparison Framework.
+- Completed engineering asset closeout and verification.
+- Repository Engineering Record Updates approved.
+- Engineering Completion Gate (ECG): PASS.
+
+
+## EA-R037 – Repository Mutation Governance
+- Status: Complete
+- ECG: PASS

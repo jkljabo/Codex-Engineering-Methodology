@@ -309,3 +309,7 @@ EA-RA001 established the architectural review baseline for the Codex Engineering
 ## EA-R039 – Repository Hygiene Governance
 - Status: Complete
 - ECG: PASS
+
+
+## EA-R040 – Repository Asset Governance
+- Completed.

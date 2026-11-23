@@ -299,3 +299,8 @@ This document integrates with:
 ## EA-R037 – Repository Mutation Governance
 - Status: Complete
 - ECG: PASS
+
+
+## EA-R039 – Repository Hygiene Governance
+- Status: Complete
+- ECG: PASS

@@ -319,3 +319,9 @@ EA-RA001 established the architectural review baseline for the Codex Engineering
 
 - Status: Complete
 - ECG: PASS
+
+
+## EA-R046 – Repository Execution Runtime Governance
+
+- Status: Complete
+- ECG: PASS

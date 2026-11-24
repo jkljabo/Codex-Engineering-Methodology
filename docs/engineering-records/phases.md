@@ -314,3 +314,9 @@ This document integrates with:
 
 - Status: Complete
 - ECG: PASS
+
+
+## EA-R046 – Repository Execution Runtime Governance
+
+- Status: Complete
+- ECG: PASS

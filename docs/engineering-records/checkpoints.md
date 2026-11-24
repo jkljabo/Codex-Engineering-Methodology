@@ -293,3 +293,8 @@ This document integrates with:
 
 ## EA-R040 – Repository Asset Governance
 - Completed.
+
+## EA-R043 – Repository Execution Authority Governance
+
+- Status: Complete
+- ECG: PASS

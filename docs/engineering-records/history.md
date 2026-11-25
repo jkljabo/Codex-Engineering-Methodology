@@ -292,3 +292,8 @@ Introduced governed orchestration of repository lifecycle transitions while pres
 ## EA-R048 — Repository Lifecycle Governance
 
 Repository Lifecycle Governance introduced as the authoritative end-to-end engineering lifecycle integrating Architecture Assessment through Repository Commit, Engineering Retrospective, and Engineering Continuation while preserving all established governance authority boundaries, lifecycle invariants, Engineering Completion Gate placement, and deterministic producer–consumer evidence chains.
+
+
+## EA-R049 — Repository Execution Capability Governance
+
+Introduced deterministic governance for repository execution capabilities, defining qualification, registration, invocation governance, execution evidence, lifecycle integration, and Engineering Completion Gate validation for repository-native execution mechanisms.

@@ -320,3 +320,9 @@ This document integrates with:
 
 - Status: Complete
 - ECG: PASS
+
+
+## EA-R047 – Repository Workflow Orchestration Governance
+
+- Status: Complete
+- ECG: PASS

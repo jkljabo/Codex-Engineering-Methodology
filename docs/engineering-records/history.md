@@ -302,3 +302,12 @@ Introduced deterministic governance for repository execution capabilities, defin
 ## EA-R050 — Repository Decision Governance
 
 Completed Repository Decision Governance as the authoritative governance model for engineering decision ownership, Engineering Decision Records (EDRs), decision authority, decision lifecycle, decision supersession, decision traceability, producer–consumer decision dependencies, governance inheritance, and Engineering Completion Gate (ECG) decision verification. Repository governance authority boundaries remained unchanged while extending deterministic governance across repository engineering decisions.
+
+
+---
+
+## EA-R051 — Repository Distribution Artifact Governance
+
+Repository Distribution Artifact Governance was introduced as the authoritative governance model for generated repository artifacts, publication packages, release archives, transport artifacts, and repository distribution media.
+
+The engineering activity established deterministic governance separating authoritative repository engineering evidence from generated distribution artifacts while preserving lifecycle invariants and repository authority boundaries.

@@ -357,3 +357,20 @@ Repository Execution Capability Governance
 **Result**
 
 Repository execution capability governance incorporated into the governed repository lifecycle.
+
+
+## EA-R050 — Repository Decision Governance
+
+Completed Engineering Lifecycle
+
+- Repository Architecture Assessment
+- Repository Implementation Package
+- Repository Patch Specifications
+- Repository Patch Updates
+- Repository Patch Update Verification
+- Repository Asset Generation
+- Repository Asset Verification
+- Repository Mutation
+- Repository Mutation Verification
+- Repository Closeout
+- Repository Closeout Update Package

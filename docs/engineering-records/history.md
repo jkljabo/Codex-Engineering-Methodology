@@ -297,3 +297,8 @@ Repository Lifecycle Governance introduced as the authoritative end-to-end engin
 ## EA-R049 — Repository Execution Capability Governance
 
 Introduced deterministic governance for repository execution capabilities, defining qualification, registration, invocation governance, execution evidence, lifecycle integration, and Engineering Completion Gate validation for repository-native execution mechanisms.
+
+
+## EA-R050 — Repository Decision Governance
+
+Completed Repository Decision Governance as the authoritative governance model for engineering decision ownership, Engineering Decision Records (EDRs), decision authority, decision lifecycle, decision supersession, decision traceability, producer–consumer decision dependencies, governance inheritance, and Engineering Completion Gate (ECG) decision verification. Repository governance authority boundaries remained unchanged while extending deterministic governance across repository engineering decisions.

@@ -320,3 +320,12 @@ The engineering activity established deterministic governance separating authori
 Engineering Evidence Generation Governance established deterministic repository evidence generation as the authoritative mechanism for producing Engineering Evidence Packages, Engineering Evidence Manifests, and stage-specific engineering evidence directly from the authoritative repository.
 
 The engineering activity formalized reproducible PowerShell evidence generation, repository evidence minimization, evidence integrity verification, Engineering Completion Gate integration, and deterministic evidence production while preserving previously established Repository Governance authority boundaries.
+
+
+---
+
+## EA-R055 — Engineering Evidence Manifest Governance
+
+Engineering Evidence Manifest Governance established deterministic governance for Engineering Evidence Manifests (EEMs) as the authoritative repository index describing every Engineering Evidence Package generated throughout the Repository Engineering lifecycle.
+
+The engineering activity formalized deterministic manifest structure, mandatory metadata, evidence identity and traceability, manifest integrity verification, lifecycle governance, validation governance, Engineering Completion Gate integration, and producer–consumer relationships while preserving all previously approved Repository Governance authority boundaries.
